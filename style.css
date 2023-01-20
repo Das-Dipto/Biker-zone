@@ -1,0 +1,72 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+header{
+    width: 100%;
+    min-height: 100vh;
+    background-image: linear-gradient(to right, rgba(21, 22, 22, 1), rgba(0, 0, 0, 0)),
+    url('images/hero-image.png');
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:2rem 0rem 6rem;
+}
+
+.navbar, .banner{
+    width: 85%;
+    margin:0 auto;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.btn-login{
+    background-color: #f57255;
+    outline: none;
+    border: none;
+}
+
+.banner{
+    margin-top: 5rem;
+}
+
+.banner h1{
+    font-size: 3rem;
+    font-weight: 700;
+    max-width: 35rem;
+}
+
+.banner p{
+    max-width: 35rem;
+    line-height: 1.7;
+}
+
+main{
+    width: 85%;
+    margin:6rem auto;
+}
+
+main p{
+    color:#f57255
+}
+
+hr{
+    background-color: #f57255;
+    max-width: 4rem;
+    margin: 0 auto;
+    height: 0.25rem;
+    opacity: 1;
+    border: none;
+    outline: none;
+}
+
+
+
+
+
