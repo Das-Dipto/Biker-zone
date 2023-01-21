@@ -66,7 +66,27 @@ hr{
     outline: none;
 }
 
+.latest-news{
+    margin-top:8rem;
+}
 
+.special-text{
+    color: #f57255;
+}
 
+.rating-icon i{
+    color:#f57255;
+}
 
+.happy-clients{
+    margin-top: 8rem;
+}
 
+.f-a-q{
+    margin-top: 6rem;
+}
+
+.f-a-q img{
+    min-width: 4rem;
+    max-width: 18rem;
+}
